@@ -87,9 +87,9 @@ class BMIApp:
         while True:
             self.collect_user_data()
             cont = input("Would you like to add another person? (y/n) ")
+            self.print_result()
             if cont != "y":
                 break
-            self.print_result()
 
 app = BMIApp()
 app.run()
