@@ -1,0 +1,20 @@
+{
+  "name": "Alice",
+  "age": 34,
+  "city": "Wonderland",
+  "address": {
+    "street": "Pashko Vasa",
+    "city": "Prishtina",
+    "state": "Kosovo"
+  },
+  "contacts": [
+    {
+      "type": "email",
+      "value": "alice@gmail.com"
+    },
+    {
+      "type":"phone",
+      "value": "022-333-444"
+    }
+  ]
+}
