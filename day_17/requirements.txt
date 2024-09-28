@@ -1,0 +1,6 @@
+python-dotenv
+uuid
+fastapi
+pydantic
+sqlite3
+# octoparse

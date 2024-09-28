@@ -1,0 +1,7 @@
+FastAPI
+SQLite
+Streamlit
+Requests
+Pydantic
+# https://notepad.link/pythonadv
+
